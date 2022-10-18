@@ -59,7 +59,7 @@
 
         <nav class="header-nav-wrap">
             <ul class="header-main-nav">
-                <li><a href="index.php" title="home">Home</a></li>
+                <li><a href="../index.php" title="home">Home</a></li>
                 <li><a href="#" title="about">About</a></li>
                 <li><a href="project.php" title="project">Projects</a></li>
                 <li><a href="contact.php" title="contact us">Contact US</a></li>

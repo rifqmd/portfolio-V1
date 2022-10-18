@@ -85,7 +85,7 @@ if(isset($_POST['name']) and isset($_POST['email']) and isset($_POST['message'])
 
         <nav class="header-nav-wrap">
             <ul class="header-main-nav">
-                <li><a href="index.php" title="home">Home</a></li>
+                <li><a href="../index.php" title="home">Home</a></li>
                 <li><a href="about.php" title="about">About</a></li>
                 <li><a href="project.php" title="project">Projects</a></li>
                 <li><a href="#" title="contact us">Contact US</a></li>
