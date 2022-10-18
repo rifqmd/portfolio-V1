@@ -68,9 +68,10 @@
 
             <ul class="header-social">
                 <li><a href="https://wa.me/6289635218206"><i class="fa-brands fa-whatsapp"></i></a></li>
-                <li><a href="#0"><i class="fa-regular fa-envelope"></i></i></a></li>
-                <li><a href="#0"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-                <li><a href="#0"><i class="fab fa-github" aria-hidden="true"></i></a></li>
+                <li><a href="mailto: deniky110@gmail.com"><i class="fa-regular fa-envelope"></i></i></a></li>
+                <li><a href="https://www.instagram.com/rfqimd/"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                </li>
+                <li><a href="https://github.com/rifqmd"><i class="fab fa-github" aria-hidden="true"></i></a></li>
             </ul>
         </nav>
 
