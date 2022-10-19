@@ -2,7 +2,6 @@
 <html class="no-js" lang="en">
 
 <head>
-
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
@@ -16,19 +15,19 @@
 
     <!-- CSS
     ================================================== -->
-    <link rel="stylesheet" href="../css/base.css">
-    <link rel="stylesheet" href="../css/vendor.css">
-    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/vendor.css">
+    <link rel="stylesheet" href="css/main.css">
 
     <!-- script
     ================================================== -->
-    <script src="../js/modernizr.js"></script>
-    <script src="../js/pace.min.js"></script>
+    <script src="js/modernizr.js"></script>
+    <script src="js/pace.min.js"></script>
 
     <!-- favicons
     ================================================== -->
-    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
 
     <!-- CDN
@@ -36,11 +35,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
         integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-
 </head>
 
 <body id="top">
-
     <div id="preloader">
         <div id="loader"></div>
     </div>
@@ -48,10 +45,9 @@
     <!-- site header
     ================================================== -->
     <header class="s-header">
-
         <div class="header-logo">
             <a class="site-logo" href="index.html">
-                <img src="../images/logo.svg" alt="Homepage">
+                <img src="images/logo.svg" alt="Homepage">
             </a>
         </div>
 
@@ -60,10 +56,10 @@
                 <li class="current">
                     <a href="#" title="home">Home</a>
                 </li>
-                <li><a href="about.php" title="about">About</a></li>
-                <li><a href="project.php" title="project">Projects</a></li>
-                <li><a href="contact.php" title="contact us">Contact US</a></li>
-                <li><a href=".././resume/resumeV1.pdf" title="resume" target="blank">View Resume</a></li>
+                <li><a href="php/about.php" title="about">About</a></li>
+                <li><a href="php/project.php" title="project">Projects</a></li>
+                <li><a href="php/contact.php" title="contact us">Contact US</a></li>
+                <li><a href="./resume/resumeV1.pdf" title="resume" target="blank">View Resume</a></li>
             </ul>
 
             <ul class="header-social">
@@ -74,9 +70,7 @@
                 <li><a href="https://github.com/rifqmd"><i class="fab fa-github" aria-hidden="true"></i></a></li>
             </ul>
         </nav>
-
         <a class="header-menu-toggle" href="#"><span>Menu</span></a>
-
     </header> <!-- end s-header -->
 
 
@@ -94,7 +88,7 @@
             </div>
 
             <div>
-                <a href="project.php">
+                <a href="php/project.php">
                     Select Here For More
                 </a>
             </div>
@@ -143,8 +137,8 @@
 
     <!-- Java Script
     ================================================== -->
-    <script src="../js/jquery-3.2.1.min.js"></script>
-    <script src="../js/plugins.js"></script>
-    <script src="../js/main.js"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
 
 </body>

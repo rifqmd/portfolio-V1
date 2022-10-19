@@ -1,5 +1,5 @@
 <?php
-include_once "../function.php";
+include_once "function.php";
 
 if(isset($_POST['name']) and isset($_POST['email']) and isset($_POST['message'])){
     $sendEmail = $_POST['email'];
